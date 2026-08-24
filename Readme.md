@@ -125,3 +125,28 @@ Hello World
 * C++ has the **STL (Standard Template Library)**.
 * C++ is widely used for **DSA and competitive programming**.
 * C++ is used in **games, operating systems, robotics, embedded systems, browsers, and high-performance applications**.
+
+
+
+* Day 1 Key Points
+
+* C++ programs start execution from main().
+* std::cout is used for output.
+* std::cin is used for input.
+* Variables store data.
+* Data types define what kind of data is stored.
+* Arithmetic operators perform calculations.
+* Comparison operators compare values.
+* if, else if, and else are used for decisions.
+* switch is useful for multiple exact choices.
+* &&, ||, and ! are logical operators.
+* Loops repeat code.
+* for is commonly used when the number of iterations is known.
+* while checks the condition before execution.
+* do while executes at least once.
+* break stops a loop.
+* continue skips the current iteration.
+* ++ increases a value by one.
+* -- decreases a value by one.
+* % gives the remainder and is very important for DSA.
+* Writing the logic before writing code is an important programming habit.
