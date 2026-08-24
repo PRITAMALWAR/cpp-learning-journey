@@ -128,7 +128,7 @@ Hello World
 
 
 
-* Day 1 Key Points
+## Day 1 Key Points
 
 * C++ programs start execution from main().
 * std::cout is used for output.
