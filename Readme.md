@@ -128,9 +128,9 @@ Hello World
 
 
 
-## Day 1 Key Points
+## Day 1 
 
-* C++ programs start execution from main().
+* C++ programs start execution from main()
 * std::cout is used for output.
 * std::cin is used for input.
 * Variables store data.
