@@ -59,26 +59,26 @@ int main()
 
 // Complete example
 
-#include <iostream>
-#include <string>
+// #include <iostream>
+// #include <string>
 
-void printStudent(std::string name)
-{
-    std::cout << "Student: " << name << std::endl;
-}
+// void printStudent(std::string name)
+// {
+//     std::cout << "Student: " << name << std::endl;
+// }
 
-int totalMarks(int math, int cpp, int db)
-{
-    return math + cpp + db;
-}
+// int totalMarks(int math, int cpp, int db)
+// {
+//     return math + cpp + db;
+// }
 
-int main()
-{
-    printStudent("Rahul");
+// int main()
+// {
+//     printStudent("Rahul");
 
-    int total = totalMarks(80, 90, 70);
+//     int total = totalMarks(80, 90, 70);
 
-    std::cout << "Total: " << total << std::endl;
+//     std::cout << "Total: " << total << std::endl;
 
-    return 0;
-}
+//     return 0;
+// }
