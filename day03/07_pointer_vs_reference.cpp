@@ -15,3 +15,22 @@ int main()
 
     return 0;
 }
+
+
+
+// what is Reference
+// ans = A reference is another name/alias for an existing variable.
+
+#include <iostream>
+
+int main()
+{
+    int number = 10;
+
+    int& ref = number;
+
+    std::cout << number << std::endl;
+    std::cout << ref;
+
+    return 0;
+}
